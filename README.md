@@ -1,1 +1,1 @@
-# Java-practicals
+# Java-practical
